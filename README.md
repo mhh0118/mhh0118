@@ -1,5 +1,5 @@
 <div align="center">
-	<h2>👋 Hello, I'm hohyeong</h2>
+	<h2>👋 Hello, I'm MUN HO HYUNG</h2>
 	
  <h3>Research Interests</h3>
 📸 Computer Vision<br>
